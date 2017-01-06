@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for i in {0..8}
+do
+	python /home/slug/Projector/pS.py 711
+	sleep 5
+done
+
